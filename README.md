@@ -10,3 +10,7 @@
 
 *     user@user.com / pw: user
 *     admin@admin.com / pw: admin
+
+
+***
+Contributors: Juan Ayala, Frank Qiao, Riley Morris
